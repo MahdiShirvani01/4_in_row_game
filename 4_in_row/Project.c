@@ -1,10 +1,6 @@
-/* Mehdi Shirvani
-    student number : 40012358021*/
-
 #include <stdio.h>
-#include <string.h>
 #include <stdlib.h>
-// #include <conio.h>
+#include <conio.h>
 #include <stdbool.h>
 #include <ctype.h>
 #include <windows.h>
